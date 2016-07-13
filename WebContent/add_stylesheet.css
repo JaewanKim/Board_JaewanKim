@@ -1,0 +1,11 @@
+@CHARSET "EUC-KR";
+
+.mainWrap > .content > .board {
+	align: center;
+	cellpadding: 10px; 
+	background-color: #F2F2F2;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-o-border-radius: 15px;
+}
